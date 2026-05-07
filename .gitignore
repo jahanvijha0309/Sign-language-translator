@@ -1,7 +1,12 @@
 .venv/
-venv/
 __pycache__/
 *.pyc
+
 uploads/
+data/
+
 .vscode/
-static/
+
+*.h5
+
+node_modules/
